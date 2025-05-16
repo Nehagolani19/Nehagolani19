@@ -31,6 +31,27 @@ My passion lies in **VLSI Design**, **Digital Electronics**, and the exciting fu
 
 📚 Eager to keep learning and stay updated with the latest in semiconductor technology, EDA tools, and SoC design.
 
+
+---
+
+### [FPGA-Based-Biometric-Attendance-System-Using-Fingerprint-Recognition](https://github.com/Nehagolani19/FPGA-Based-Biometric-Attendance-System-Using-Fingerprint-Recognition)  
+An FPGA-based attendance system using fingerprint recognition for secure and automated attendance tracking. Integrates biometric authentication with efficient hardware design.
+
+---
+
+### [Design-and-Implementation-of-a-Smart-Car-Using-8051-Microcontroller](https://github.com/Nehagolani19/Design-and-Implementation-of-a-Smart-Car-Using-8051-Microcontroller)  
+A smart car project implemented with the 8051 microcontroller featuring obstacle avoidance, line following, and wireless control capabilities for intelligent navigation.
+
+---
+
+### [Biometric-FaceRecognition-Attendance-System-using-Python](https://github.com/Nehagolani19/Biometric-FaceRecognition-Attendance-System-using-Python)  
+A Python-based attendance system using face recognition technology to provide a contactless and reliable way of marking attendance through biometric verification.
+
+---
+
+### [Analog-to-Digital-Converter-Interfacing-with-FPGA](https://github.com/Nehagolani19/Analog-to-Digital-Converter-Interfacing-with-FPGA)  
+Connects an ADC to FPGA via Verilog for converting analog signals to digital form, enabling seamless sensor data acquisition and processing within digital systems.
+
 ---
 
 ## 📊 GitHub Stats  
