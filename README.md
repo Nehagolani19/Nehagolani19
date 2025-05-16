@@ -1,3 +1,10 @@
+# 👋 Hello, I'm Neha Golani!  
+<div align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1200&color=808080&center=true&vCenter=true&width=460&lines=Aspiring+Technologist;VLSI+Design+Passionate;Digital+Electronics+Enthusiast;Verification+%26+Innovation" alt="Typing SVG" />
+</div>  
+
+---
+
 # 💫 About Me  
 I’m **Neha Golani**, an aspiring technologist pursuing a **B.Tech in Electronics and Communication Engineering** with a **minor in Computer Science** at **Nirma University, Ahmedabad**.  
 My passion lies in **VLSI Design**, **Digital Electronics**, and the exciting fusion of **hardware and software**. I enjoy working with **Verilog**, **SystemVerilog**, and **embedded systems**, and I’m deeply motivated to contribute to **robust and scalable** electronic solutions.  
@@ -13,14 +20,36 @@ My passion lies in **VLSI Design**, **Digital Electronics**, and the exciting fu
 ### 💻 Tech Stack  
 <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=plastic&logoColor=white"/> <img src="https://img.shields.io/badge/SystemVerilog-800000?style=plastic&logoColor=white"/> <img src="https://img.shields.io/badge/Embedded_C-darkgreen?style=plastic&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Assembly-808080?style=plastic&logoColor=white"/> <img src="https://img.shields.io/badge/Linux_Shell-333333?style=plastic&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-07405E?style=plastic&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-e16737?style=plastic&logoColor=white"/>
 
+---
 
+### 🎯 Current Focus
+
+- Designing and verifying digital circuits using **Verilog/SystemVerilog**  
+- Exploring **VLSI design flow**, including synthesis, timing analysis, and testing  
+- Gaining hands-on experience in **testbench development**, verification, and **UVM methodologies**  
+- Learning and building **embedded system prototypes**, focusing on integrating digital logic into real-world applications  
+
+📚 Eager to keep learning and stay updated with the latest in semiconductor technology, EDA tools, and SoC design.
 
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Nehagolani19&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Nehagolani19&theme=onedark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehagolani19&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+
+<div align="center">
+
+<a href="https://github.com/Nehagolani19">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nehagolani19&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&card_width=400&hide=prs" width="400" />
+</a>
+
+<a href="https://github.com/Nehagolani19">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nehagolani19&theme=onedark&hide_border=true" width="400" />
+</a>
+
+<a href="https://github.com/Nehagolani19">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehagolani19&layout=compact&theme=onedark&hide_border=true&card_width=400" width="400" />
+</a>
+
+</div>
 
 ---
 
