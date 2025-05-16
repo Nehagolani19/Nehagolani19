@@ -79,6 +79,6 @@ Connects an ADC to FPGA via Verilog for converting analog signals to digital for
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Nehagolani19&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=urmitkikani11&color=yellow" alt="Profile Views"/>
+</div>
